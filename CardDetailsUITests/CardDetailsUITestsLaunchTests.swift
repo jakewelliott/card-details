@@ -1,13 +1,13 @@
 //
-//  Card_DetailsUITestsLaunchTests.swift
-//  Card DetailsUITests
+//  CardDetailsUITestsLaunchTests.swift
+//  CardDetailsUITests
 //
-//  Created by Jacob Elliott on 5/9/25.
+//  Created by Jake Elliott on 5/9/25.
 //
 
 import XCTest
 
-final class Card_DetailsUITestsLaunchTests: XCTestCase {
+final class CardDetailsUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true

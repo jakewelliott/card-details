@@ -1,13 +1,13 @@
 //
-//  Card_DetailsTests.swift
-//  Card DetailsTests
+//  CardDetailsTests.swift
+//  CardDetailsTests
 //
-//  Created by Jacob Elliott on 5/9/25.
+//  Created by Jake Elliott on 5/9/25.
 //
 
 import Testing
 
-struct Card_DetailsTests {
+struct CardDetailsTests {
 
     @Test func example() async throws {
         // Write your test here and use APIs like `#expect(...)` to check expected conditions.
